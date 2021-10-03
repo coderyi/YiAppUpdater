@@ -1,0 +1,6 @@
+framework module YiAppUpdater {
+  umbrella header "YiAppUpdater-umbrella.h"
+
+  export *
+  module * { export * }
+}

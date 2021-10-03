@@ -1,0 +1,16 @@
+PODS:
+  - YiAppUpdater (0.1.0)
+
+DEPENDENCIES:
+  - YiAppUpdater (from `../`)
+
+EXTERNAL SOURCES:
+  YiAppUpdater:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YiAppUpdater: f4b2a1b5d5af2ee4c0d5e1a40bffa19f01dc355f
+
+PODFILE CHECKSUM: 8644820cad777ee8f5bfcb6a45c89c8a40ff659d
+
+COCOAPODS: 1.10.0

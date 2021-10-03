@@ -1,0 +1,6 @@
+framework module Pods_YiAppUpdater_Tests {
+  umbrella header "Pods-YiAppUpdater_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
