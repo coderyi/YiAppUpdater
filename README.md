@@ -8,14 +8,6 @@
 Checks if there is a newer version of your app in the AppStore and alerts the user to update.
 
 
-## Usage
-
-```
-YiAppUpdater.shared.showUpdateWithConfirmation()
-```
-<img  src="./Resources/image.png" width="500" height="265">
-
-
 ## Installation
 
 YiAppUpdater is available through [CocoaPods](https://cocoapods.org). To install
@@ -24,6 +16,15 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'YiAppUpdater'
 ```
+
+## Usage
+
+```
+YiAppUpdater.shared.showUpdateWithConfirmation()
+```
+<img  src="./Resources/image.png" width="500" height="265">
+
+
 
 ## Author
 
